@@ -1,4 +1,4 @@
-# My open-source contribution
+# Pullrequests in Github repositories
 
 * [Hexlet-comporator](https://github.com/Hexlet/hexlet-comparator)
     * [Update screenshots hexlet and Elbrus schools #180](https://github.com/Hexlet/hexlet-comparator/pull/180)
