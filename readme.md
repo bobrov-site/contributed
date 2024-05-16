@@ -11,5 +11,6 @@
     * [fixed html extension when making new snippet #470](https://github.com/hexlet-rus/runit/pull/470)
     * [Fixed faq section on landing #471](https://github.com/hexlet-rus/runit/pull/471)
     * [Fix bootstrap style #475](https://github.com/hexlet-rus/runit/pull/475)
+    * [Fixed tg footer #486](https://github.com/hexlet-rus/runit/pull/486)
 * [Hexlet-ru-test-assignments](https://github.com/Hexlet/ru-test-assignments)
     * [added test task from yandex jobs #218](https://github.com/Hexlet/ru-test-assignments/pull/218)
