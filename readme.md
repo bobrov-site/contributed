@@ -13,5 +13,7 @@
     * [Fixed faq section on landing #471](https://github.com/hexlet-rus/runit/pull/471)
     * [Fix bootstrap style #475](https://github.com/hexlet-rus/runit/pull/475)
     * [Fixed tg footer #486](https://github.com/hexlet-rus/runit/pull/486)
+    * [fix footer landing #490](https://github.com/hexlet-rus/runit/pull/490)
+    * [fix text showing in landing when dark theme is activated #491](https://github.com/hexlet-rus/runit/pull/491)
 * [Hexlet-ru-test-assignments](https://github.com/Hexlet/ru-test-assignments)
     * [added test task from yandex jobs #218](https://github.com/Hexlet/ru-test-assignments/pull/218)
