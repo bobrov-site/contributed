@@ -17,5 +17,6 @@
     * [fix text showing in landing when dark theme is activated #491](https://github.com/hexlet-rus/runit/pull/491)
     * [Redirect auth users to snippets #500](https://github.com/hexlet-rus/runit/pull/500)
     * [Appearance frontend #504](https://github.com/hexlet-rus/runit/pull/504)
+    * [#511 Footer fix #519](https://github.com/hexlet-rus/runit/pull/519)
 * [Hexlet-ru-test-assignments](https://github.com/Hexlet/ru-test-assignments)
     * [added test task from yandex jobs #218](https://github.com/Hexlet/ru-test-assignments/pull/218)
